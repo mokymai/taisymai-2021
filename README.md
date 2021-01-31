@@ -1,2 +1,3 @@
-# taisymai-2021
- 
+# Taisymai (2021 pavasario semestras)
+
+Pranešti apie netikslumus mokomojoje medžiagoje.
