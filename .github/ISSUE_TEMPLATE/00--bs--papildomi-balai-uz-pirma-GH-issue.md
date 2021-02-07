@@ -10,5 +10,5 @@ assignees: ''
 
 - **Kursas:** BS-2021  
 - **Data:** 2021-...-...  
-- Papildomi balai už pirmą pranešimą (BS-201)
+- Papildomi balai už pirmą pranešimą (BS-2021)
 
