@@ -1,7 +1,7 @@
 ---
 name: Netikslumas pratybų svetainėje (BS-2021)
 about: Netikslumai mokomojoje medžiagoje ir siūlomi taisymai
-title: 'programa-r: netikslumas → taisymas (netikslumo esmė)'
+title: 'Pratybos: netikslumas → taisymas (netikslumo esmė)'
 labels: ['R-2021', 'Website :earth_americas:']
 assignees: ''
 
