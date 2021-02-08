@@ -1,7 +1,7 @@
 ---
 name: Netikslumas teorijos svetainėje (BS-2021)
 about: Netikslumai mokomojoje medžiagoje ir siūlomi taisymai
-title: 'biostatistika: netikslumas → taisymas (netikslumo esmė)'
+title: 'Teorijos svetainė: netikslumas → taisymas (netikslumo esmė)'
 labels: ['BS-2021', 'Website :earth_americas:']
 assignees: ''
 
